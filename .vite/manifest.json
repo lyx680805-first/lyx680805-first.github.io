@@ -9,8 +9,8 @@
       "_record-BdkTR7AP.js"
     ]
   },
-  "_app-rsc-cache-busting-vBl9j8xJ.js": {
-    "file": "_next/static/chunks/app-rsc-cache-busting-vBl9j8xJ.js",
+  "_app-rsc-cache-busting-DmBU-_Fb.js": {
+    "file": "_next/static/chunks/app-rsc-cache-busting-DmBU-_Fb.js",
     "name": "app-rsc-cache-busting",
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
@@ -50,8 +50,8 @@
       "_protocol-headers-URL33uU5.js"
     ]
   },
-  "_link-DeX_yK9w.js": {
-    "file": "_next/static/chunks/link-DeX_yK9w.js",
+  "_link-i9hGu2IS.js": {
+    "file": "_next/static/chunks/link-i9hGu2IS.js",
     "name": "link",
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
@@ -66,7 +66,7 @@
       "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
       "virtual:vinext-app-browser-entry",
       "_app-elements-Drg5O4vw.js",
-      "_app-rsc-cache-busting-vBl9j8xJ.js",
+      "_app-rsc-cache-busting-DmBU-_Fb.js",
       "_app-rsc-render-mode-IDJu5NEE.js",
       "_headers-CeAbe3am.js"
     ]
@@ -100,18 +100,18 @@
     "name": "voc-data.generated"
   },
   "app/experience/ip-diagnosis/page.tsx": {
-    "file": "_next/static/chunks/page-ViNxM6zW.js",
+    "file": "_next/static/chunks/page-41CfXiws.js",
     "name": "page",
     "src": "app/experience/ip-diagnosis/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BaE7mD_r.js",
-      "_link-DeX_yK9w.js"
+      "_link-i9hGu2IS.js"
     ]
   },
   "app/media/page.tsx": {
-    "file": "_next/static/chunks/page-CXDrg6rD.js",
+    "file": "_next/static/chunks/page-DES1lhxC.js",
     "name": "page",
     "src": "app/media/page.tsx",
     "isDynamicEntry": true,
@@ -124,7 +124,7 @@
     ]
   },
   "app/page.tsx": {
-    "file": "_next/static/chunks/page-CB3YkzcS.js",
+    "file": "_next/static/chunks/page-CVdLynmh.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -134,7 +134,7 @@
     ]
   },
   "app/research/ai-choice/evidence/page.tsx": {
-    "file": "_next/static/chunks/page-1a8YxC1Q.js",
+    "file": "_next/static/chunks/page-CF2jh_ek.js",
     "name": "page",
     "src": "app/research/ai-choice/evidence/page.tsx",
     "isDynamicEntry": true,
@@ -142,22 +142,22 @@
       "_rolldown-runtime-C60lm6uB.js",
       "_voc-data.generated-Dq1cVDFo.js",
       "_framework-BaE7mD_r.js",
-      "_link-DeX_yK9w.js"
+      "_link-i9hGu2IS.js"
     ]
   },
   "app/research/ai-choice/page.tsx": {
-    "file": "_next/static/chunks/page-EOmAb2mw.js",
+    "file": "_next/static/chunks/page-Fzd350a3.js",
     "name": "page",
     "src": "app/research/ai-choice/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BaE7mD_r.js",
-      "_link-DeX_yK9w.js"
+      "_link-i9hGu2IS.js"
     ]
   },
   "app/tools/voc-insight/page.tsx": {
-    "file": "_next/static/chunks/page-DbWpM2DU.js",
+    "file": "_next/static/chunks/page-Bd-qbXAB.js",
     "name": "page",
     "src": "app/tools/voc-insight/page.tsx",
     "isDynamicEntry": true,
@@ -165,55 +165,55 @@
       "_rolldown-runtime-C60lm6uB.js",
       "_voc-data.generated-Dq1cVDFo.js",
       "_framework-BaE7mD_r.js",
-      "_link-DeX_yK9w.js"
+      "_link-i9hGu2IS.js"
     ]
   },
   "app/work/ai-business-system/page.tsx": {
-    "file": "_next/static/chunks/page-B17POGOb.js",
+    "file": "_next/static/chunks/page-DsG0WPUd.js",
     "name": "page",
     "src": "app/work/ai-business-system/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BaE7mD_r.js",
-      "_link-DeX_yK9w.js"
+      "_link-i9hGu2IS.js"
     ]
   },
   "app/work/ai-diagnosis-flow/page.tsx": {
-    "file": "_next/static/chunks/page-BwXBG_1P.js",
+    "file": "_next/static/chunks/page-TKgNTpWH.js",
     "name": "page",
     "src": "app/work/ai-diagnosis-flow/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BaE7mD_r.js",
-      "_link-DeX_yK9w.js"
+      "_link-i9hGu2IS.js"
     ]
   },
   "app/work/ai-product-field-notes/page.tsx": {
-    "file": "_next/static/chunks/page-DdOOc98_.js",
+    "file": "_next/static/chunks/page-BhgOSlqp.js",
     "name": "page",
     "src": "app/work/ai-product-field-notes/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BaE7mD_r.js",
-      "_link-DeX_yK9w.js"
+      "_link-i9hGu2IS.js"
     ]
   },
   "app/work/ai-product-rules/page.tsx": {
-    "file": "_next/static/chunks/page-Cvo3QsH_.js",
+    "file": "_next/static/chunks/page-BiaidUHC.js",
     "name": "page",
     "src": "app/work/ai-product-rules/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BaE7mD_r.js",
-      "_link-DeX_yK9w.js"
+      "_link-i9hGu2IS.js"
     ]
   },
   "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js": {
-    "file": "_next/static/chunks/hybrid-client-route-owner-CSqaC4nx.js",
+    "file": "_next/static/chunks/hybrid-client-route-owner-DLqIwUFg.js",
     "name": "hybrid-client-route-owner",
     "src": "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
     "isDynamicEntry": true,
@@ -224,7 +224,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-B9buNNqa.js",
+    "file": "_next/static/chunks/layout-segment-context-Iz0qL04p.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -236,7 +236,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-DIe5_EIG.js",
+    "file": "_next/static/chunks/index-3YV_PgxE.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -244,7 +244,7 @@
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BaE7mD_r.js",
       "_app-elements-Drg5O4vw.js",
-      "_app-rsc-cache-busting-vBl9j8xJ.js",
+      "_app-rsc-cache-busting-DmBU-_Fb.js",
       "_headers-CeAbe3am.js",
       "_navigation-errors-wvgRKjB-.js",
       "_hash-D0ldriCF.js",
