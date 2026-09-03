@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">AI动物IP内容案例</title>
+  <desc id="desc">以81个视频和440万涨粉为主题的数据化文章封面</desc>
+  <rect width="800" height="520" fill="#0b1325"/>
+  <path d="M0 390C172 284 304 472 474 356C602 269 690 276 800 320V520H0Z" fill="#3157dc"/>
+  <circle cx="652" cy="118" r="88" fill="#ffd84d"/>
+  <circle cx="623" cy="104" r="9" fill="#0b1325"/>
+  <circle cx="681" cy="104" r="9" fill="#0b1325"/>
+  <path d="M618 138c22 19 49 19 70 0" fill="none" stroke="#0b1325" stroke-width="8" stroke-linecap="round"/>
+  <path d="M598 47l-25-37 51 21m83 16 25-37-51 21" fill="#ffd84d" stroke="#0b1325" stroke-width="6" stroke-linejoin="round"/>
+  <text x="62" y="70" fill="#ffd84d" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="4">CASE STUDY / AI CONTENT</text>
+  <text x="58" y="218" fill="#ffffff" font-family="Arial, sans-serif" font-size="132" font-weight="700">81</text>
+  <text x="270" y="218" fill="#ffffff" font-family="Arial, sans-serif" font-size="48" font-weight="700">个视频</text>
+  <text x="58" y="345" fill="#ffd84d" font-family="Arial, sans-serif" font-size="118" font-weight="700">440万</text>
+  <text x="58" y="422" fill="#ffffff" font-family="Arial, sans-serif" font-size="36" font-weight="700">AI“动物IP”凭什么这么猛？</text>
+  <text x="60" y="474" fill="#cbd4ec" font-family="Arial, sans-serif" font-size="22">夏天碎碎念 · 内容案例拆解</text>
+</svg>
