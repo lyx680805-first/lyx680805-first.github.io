@@ -9,8 +9,8 @@
       "_record-BdkTR7AP.js"
     ]
   },
-  "_app-rsc-cache-busting-CjhGO_RA.js": {
-    "file": "_next/static/chunks/app-rsc-cache-busting-CjhGO_RA.js",
+  "_app-rsc-cache-busting-DoDXEGO-.js": {
+    "file": "_next/static/chunks/app-rsc-cache-busting-DoDXEGO-.js",
     "name": "app-rsc-cache-busting",
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
@@ -50,8 +50,8 @@
       "_protocol-headers-URL33uU5.js"
     ]
   },
-  "_link-CBuozV_U.js": {
-    "file": "_next/static/chunks/link-CBuozV_U.js",
+  "_link-CC9g99or.js": {
+    "file": "_next/static/chunks/link-CC9g99or.js",
     "name": "link",
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
@@ -66,7 +66,7 @@
       "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
       "virtual:vinext-app-browser-entry",
       "_app-elements-Drg5O4vw.js",
-      "_app-rsc-cache-busting-CjhGO_RA.js",
+      "_app-rsc-cache-busting-DoDXEGO-.js",
       "_app-rsc-render-mode-IDJu5NEE.js",
       "_headers-CeAbe3am.js"
     ]
@@ -100,18 +100,18 @@
     "name": "voc-data.generated"
   },
   "app/experience/ip-diagnosis/page.tsx": {
-    "file": "_next/static/chunks/page-e2y0kELG.js",
+    "file": "_next/static/chunks/page-8yn0_gs4.js",
     "name": "page",
     "src": "app/experience/ip-diagnosis/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BaE7mD_r.js",
-      "_link-CBuozV_U.js"
+      "_link-CC9g99or.js"
     ]
   },
   "app/media/page.tsx": {
-    "file": "_next/static/chunks/page-CZGFlLM-.js",
+    "file": "_next/static/chunks/page-7dQUg1Bm.js",
     "name": "page",
     "src": "app/media/page.tsx",
     "isDynamicEntry": true,
@@ -120,7 +120,7 @@
       "_framework-BaE7mD_r.js"
     ],
     "css": [
-      "_next/static/css/page.DRPTmBlE.css"
+      "_next/static/css/page.A7U6cF0H.css"
     ]
   },
   "app/page.tsx": {
@@ -134,7 +134,7 @@
     ]
   },
   "app/research/ai-choice/evidence/page.tsx": {
-    "file": "_next/static/chunks/page-DNQYnYlT.js",
+    "file": "_next/static/chunks/page-DA33QU25.js",
     "name": "page",
     "src": "app/research/ai-choice/evidence/page.tsx",
     "isDynamicEntry": true,
@@ -142,22 +142,22 @@
       "_rolldown-runtime-C60lm6uB.js",
       "_voc-data.generated-Dq1cVDFo.js",
       "_framework-BaE7mD_r.js",
-      "_link-CBuozV_U.js"
+      "_link-CC9g99or.js"
     ]
   },
   "app/research/ai-choice/page.tsx": {
-    "file": "_next/static/chunks/page-DtBLzSh5.js",
+    "file": "_next/static/chunks/page-Ck1SUSD0.js",
     "name": "page",
     "src": "app/research/ai-choice/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BaE7mD_r.js",
-      "_link-CBuozV_U.js"
+      "_link-CC9g99or.js"
     ]
   },
   "app/tools/voc-insight/page.tsx": {
-    "file": "_next/static/chunks/page-CVqu9mGq.js",
+    "file": "_next/static/chunks/page-dy0nZyck.js",
     "name": "page",
     "src": "app/tools/voc-insight/page.tsx",
     "isDynamicEntry": true,
@@ -165,55 +165,55 @@
       "_rolldown-runtime-C60lm6uB.js",
       "_voc-data.generated-Dq1cVDFo.js",
       "_framework-BaE7mD_r.js",
-      "_link-CBuozV_U.js"
+      "_link-CC9g99or.js"
     ]
   },
   "app/work/ai-business-system/page.tsx": {
-    "file": "_next/static/chunks/page-B05TFURq.js",
+    "file": "_next/static/chunks/page-BVl7knTz.js",
     "name": "page",
     "src": "app/work/ai-business-system/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BaE7mD_r.js",
-      "_link-CBuozV_U.js"
+      "_link-CC9g99or.js"
     ]
   },
   "app/work/ai-diagnosis-flow/page.tsx": {
-    "file": "_next/static/chunks/page-B9rMtTek.js",
+    "file": "_next/static/chunks/page-BZ-Zhp1G.js",
     "name": "page",
     "src": "app/work/ai-diagnosis-flow/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BaE7mD_r.js",
-      "_link-CBuozV_U.js"
+      "_link-CC9g99or.js"
     ]
   },
   "app/work/ai-product-field-notes/page.tsx": {
-    "file": "_next/static/chunks/page-Dczx9E-E.js",
+    "file": "_next/static/chunks/page-BtQcfGeP.js",
     "name": "page",
     "src": "app/work/ai-product-field-notes/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BaE7mD_r.js",
-      "_link-CBuozV_U.js"
+      "_link-CC9g99or.js"
     ]
   },
   "app/work/ai-product-rules/page.tsx": {
-    "file": "_next/static/chunks/page-Cp4Z3Ack.js",
+    "file": "_next/static/chunks/page-CqwdsQY8.js",
     "name": "page",
     "src": "app/work/ai-product-rules/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BaE7mD_r.js",
-      "_link-CBuozV_U.js"
+      "_link-CC9g99or.js"
     ]
   },
   "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js": {
-    "file": "_next/static/chunks/hybrid-client-route-owner-BLiLMl9W.js",
+    "file": "_next/static/chunks/hybrid-client-route-owner-DkmOLRbo.js",
     "name": "hybrid-client-route-owner",
     "src": "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
     "isDynamicEntry": true,
@@ -224,7 +224,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-CGLu5gXz.js",
+    "file": "_next/static/chunks/layout-segment-context-4Q_5fxDp.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -236,7 +236,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-Ccc2XMyV.js",
+    "file": "_next/static/chunks/index-CNWccDQs.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -244,7 +244,7 @@
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BaE7mD_r.js",
       "_app-elements-Drg5O4vw.js",
-      "_app-rsc-cache-busting-CjhGO_RA.js",
+      "_app-rsc-cache-busting-DoDXEGO-.js",
       "_headers-CeAbe3am.js",
       "_navigation-errors-wvgRKjB-.js",
       "_hash-D0ldriCF.js",
