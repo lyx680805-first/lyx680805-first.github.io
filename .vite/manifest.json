@@ -25,7 +25,7 @@
     ]
   },
   "app/media/page.tsx": {
-    "file": "_next/static/chunks/page-iLf1EZVv.js",
+    "file": "_next/static/chunks/page-BBO2PWKq.js",
     "name": "page",
     "src": "app/media/page.tsx",
     "isDynamicEntry": true,
@@ -34,11 +34,11 @@
       "_framework-BgSIrAUN.js"
     ],
     "css": [
-      "_next/static/css/page.DoGbmMon.css"
+      "_next/static/css/page.CorqVQQF.css"
     ]
   },
   "app/page.tsx": {
-    "file": "_next/static/chunks/page-2L3aXge5.js",
+    "file": "_next/static/chunks/page-ID4XmfER.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -120,7 +120,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-0PWrCXNu.js",
+    "file": "_next/static/chunks/layout-segment-context-C4QWPUTI.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -131,7 +131,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-B5Mp2_6j.js",
+    "file": "_next/static/chunks/index-CVjxvYTR.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
