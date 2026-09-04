@@ -15,7 +15,7 @@
     "name": "voc-data.generated"
   },
   "app/experience/ip-diagnosis/page.tsx": {
-    "file": "_next/static/chunks/page-Y1NLUZkL.js",
+    "file": "_next/static/chunks/page-Dox8m4wS.js",
     "name": "page",
     "src": "app/experience/ip-diagnosis/page.tsx",
     "isDynamicEntry": true,
@@ -38,7 +38,7 @@
     ]
   },
   "app/page.tsx": {
-    "file": "_next/static/chunks/page-ID4XmfER.js",
+    "file": "_next/static/chunks/page-CH6dF_un.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -80,7 +80,7 @@
     ]
   },
   "app/work/ai-business-system/page.tsx": {
-    "file": "_next/static/chunks/page-C8rtelEs.js",
+    "file": "_next/static/chunks/page-B1p9P-IS.js",
     "name": "page",
     "src": "app/work/ai-business-system/page.tsx",
     "isDynamicEntry": true,
@@ -90,7 +90,7 @@
     ]
   },
   "app/work/ai-diagnosis-flow/page.tsx": {
-    "file": "_next/static/chunks/page-CPFcXN5L.js",
+    "file": "_next/static/chunks/page-BvoGbMws.js",
     "name": "page",
     "src": "app/work/ai-diagnosis-flow/page.tsx",
     "isDynamicEntry": true,
@@ -120,7 +120,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-C4QWPUTI.js",
+    "file": "_next/static/chunks/layout-segment-context-C_Lw3etM.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -131,7 +131,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-CVjxvYTR.js",
+    "file": "_next/static/chunks/index-BWHIcwG2.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
